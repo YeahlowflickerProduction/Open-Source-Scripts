@@ -1,3 +1,12 @@
+'''
+Yeahlowflicker Production
+SCPT000 - Linux Desktop Entry Generator
+
+This script is owned and developed by Yeahlowflicker Production. It is licensed under the MIT License.
+Copyright Yeahlowflicker Production, All Rights Reserved.
+'''
+
+
 from os.path import exists, expanduser
 
 
@@ -59,4 +68,3 @@ if __name__ == "__main__":
 
     print("File saved successfully at {}.".format(dirpath))
     raw_input("Press any key to exit...")
-

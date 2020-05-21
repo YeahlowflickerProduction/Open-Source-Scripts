@@ -1,3 +1,12 @@
+'''
+Yeahlowflicker Production
+SCPT001 - Password Generator
+
+This script is owned and developed by Yeahlowflicker Production. It is licensed under the MIT License.
+Copyright Yeahlowflicker Production, All Rights Reserved.
+'''
+
+
 import sys
 import random
 import string
